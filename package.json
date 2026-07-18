@@ -1,0 +1,13 @@
+{
+  "name": "lejiend-simple-education",
+  "version": "1.0.0",
+  "description": "Basic Node.js + Express.js app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
